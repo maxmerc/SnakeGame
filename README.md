@@ -55,8 +55,7 @@ This is a modified version of the popular game Snake with just some small change
 
 ## Implementation
 
-### Provide an overview of each of the classes in your code, and what their
-  function is in the overall game.
+### Provide an overview of each of the classes in your code, and what each class' function is in the overall game.
 
 - runSnake - This class implements runnable and is used to run the game. It sets up the JFrame and
   instantiates and initializes the SnakeGameCourt that will control the state of the game
